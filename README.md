@@ -1,7 +1,7 @@
 # GitHub Explorer
 
-![GitHub Explorer](![project 3](https://github.com/lil-Ribhav-Bhatt1012/CodeClause_Github_Explorer/assets/77582313/94e4ecba-24b0-4d12-a7f9-45738e762df2)
-)
+![project 3](https://github.com/lil-Ribhav-Bhatt1012/CodeClause_Github_Explorer/assets/77582313/94e4ecba-24b0-4d12-a7f9-45738e762df2)
+
 
 GitHub Explorer is a web application that allows users to search for GitHub profiles and explore their repositories. With an intuitive user interface, it provides a seamless experience for browsing GitHub users and their projects.
 
