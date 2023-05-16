@@ -2,7 +2,6 @@ const searchInput = document.getElementById('searchInput');
 const searchButton = document.getElementById('searchButton');
 const repositoriesContainer = document.getElementById('repositories');
 const userDetailsContainer = document.getElementById('userDetails');
-const accessToken = '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'; // Replace with your GitHub API token
 
 searchButton.addEventListener('click', () => {
   const username = searchInput.value;
