@@ -22,7 +22,7 @@ GitHub Explorer is a web application that allows users to search for GitHub prof
 
 ## Demo
 
-Check out the live demo of GitHub Explorer [here](https://githubexplorer11.netlify.app/).
+Check out the live demo of GitHub Explorer [here](https://github-explorerrr.netlify.app).
 
 ## Getting Started
 
